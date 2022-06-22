@@ -1,6 +1,6 @@
 # Mathematics of Big Data
 
-Code for the class [Mathematics of Big Data](https://math189bigdata.github.io/)
+Classifying ASD using rs-fMRI data for the class [Mathematics of Big Data](https://math189bigdata.github.io/)
 
 ## Dataset
 
